@@ -1,4 +1,4 @@
-
+![Progress](https://img.shields.io/badge/Progression-100%25-green)
 
 # TITANIC-SURVIVE-PREDICTION-USING-EDA-AND-NAIVE-BAYES-CLASSIFIERS
 
