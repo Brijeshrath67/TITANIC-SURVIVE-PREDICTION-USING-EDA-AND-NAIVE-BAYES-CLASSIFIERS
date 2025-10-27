@@ -80,11 +80,15 @@ from sklearn.metrics import accuracy_score, confusion_matrix, classification_rep
 9️⃣ Results
 Achieved accuracy around 75–82% depending on preprocessing.
 The model showed that gender and passenger class were the strongest survival predictors.
+
+
 🔟 Visualization
 Used seaborn and matplotlib to plot:
 Count plots for survivors vs non-survivors
 Heatmap of feature correlation
 Age distribution by survival status
+
+
 📊 Technologies Used
 Category
 Tools / Libraries
@@ -98,12 +102,15 @@ Machine Learning
 Scikit-learn
 Notebook
 Jupyter Notebook (.ipynb)
-🗂️ Project Structure
 
+
+🗂️ Project Structure
 ├── TITANIC SURVIVE PREDICTION USING EDA AND NAIVE BAYES CLASSIFIERS.ipynb
 ├── README.md
 ├── .gitignore
 └── LICENSE
+
+
 🚀 How to Run
 Clone the repository:
 Bash
@@ -112,6 +119,8 @@ Open the Jupyter Notebook:
 jupyter notebook "TITANIC SURVIVE PREDICTION USING EDA AND NAIVE BAYES CLASSIFIERS.ipynb"
 Run all cells in order.
 View predictions and visualizations.
+
+
 🧩 Future Work
 Experiment with other algorithms (Logistic Regression, Decision Tree, Random Forest)
 Tune hyperparameters for better accuracy
