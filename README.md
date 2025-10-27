@@ -136,5 +136,5 @@ Brijesh Rath
 📧 Email: rathbrijesh2006@gmail.com
 
 
-💼 GitHub: [github.com/your-username](https://github.com/Brijeshrath67)
+💼 GitHub: (https://github.com/Brijeshrath67)
 
