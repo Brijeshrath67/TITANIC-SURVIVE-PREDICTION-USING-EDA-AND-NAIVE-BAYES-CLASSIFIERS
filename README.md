@@ -105,6 +105,8 @@ Jupyter Notebook (.ipynb)
 
 
 🗂️ Project Structure
+
+
 ├── TITANIC SURVIVE PREDICTION USING EDA AND NAIVE BAYES CLASSIFIERS.ipynb
 ├── README.md
 ├── .gitignore
@@ -129,6 +131,10 @@ Deploy model using Flask or Streamlit
 
 👨‍💻 Author
 Brijesh Rath
+
+
 📧 Email: rathbrijesh2006@gmail.com
+
+
 💼 GitHub: [github.com/your-username](https://github.com/Brijeshrath67)
 
