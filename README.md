@@ -116,8 +116,10 @@ View predictions and visualizations.
 Experiment with other algorithms (Logistic Regression, Decision Tree, Random Forest)
 Tune hyperparameters for better accuracy
 Deploy model using Flask or Streamlit
+
+
 👨‍💻 Author
 Brijesh Rath
-📧 Email: your-email@example.com
-💼 GitHub: github.com/your-username
+📧 Email: rathbrijesh2006@gmail.com
+💼 GitHub: [github.com/your-username](https://github.com/Brijeshrath67)
 
