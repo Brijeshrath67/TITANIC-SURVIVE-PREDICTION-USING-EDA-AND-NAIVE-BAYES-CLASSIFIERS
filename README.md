@@ -1,10 +1,16 @@
-![Progress](https://img.shields.io/badge/Progression-100%25-green)
-
 # TITANIC-SURVIVE-PREDICTION-USING-EDA-AND-NAIVE-BAYES-CLASSIFIERS
 
 📘 Overview
 This project analyzes the Titanic dataset to predict the survival of passengers based on different features such as age, gender, class, and embarkation point.  
 It combines *Exploratory Data Analysis (EDA)* and *Naive Bayes Classifier* to understand data patterns and build a predictive machine learning model.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ML-Classification%20|%20Regression-blue" />
+  <img src="https://img.shields.io/badge/Python-3.10+-yellow" />
+  <img src="https://img.shields.io/badge/Jupyter-Notebook-orange" />
+  <img src="https://img.shields.io/badge/Status-Completed-success" />
+</p>
+
 
 ---
 
